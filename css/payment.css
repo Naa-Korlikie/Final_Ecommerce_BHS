@@ -1,0 +1,13 @@
+.checkout{
+text-align: center;
+}
+  
+  /* Bordered form */
+  #paymentForm {
+        border: 3px solid #f1f1f1;
+        padding: 15px;
+        margin: auto;
+        width: 500px;
+  }
+
+  
